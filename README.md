@@ -2,6 +2,9 @@
 
 A web application built with Streamlit that predicts depression levels in students based on various factors including academic pressure, lifestyle, and personal background.
 
+## Web Application
+[Streamlit App](https://student-depression-predictor.streamlit.app/)
+
 ## Features
 
 - **Depression Prediction**: Get an assessment of depression risk based on personal inputs
